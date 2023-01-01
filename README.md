@@ -1,5 +1,7 @@
 # loginSystem-fullStack
 
+I used Pure php for this project 
+
 Project Description
 The following is the description of the minimum functionalities that should be included in the project :
 1. Login page
